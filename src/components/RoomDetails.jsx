@@ -1,5 +1,4 @@
 import React from "react";
-import avatar from "../assets/images/placeholder.jpg";
 import HostDetails from "./HostDetails";
 import AboutPlace from "./AboutPlace";
 import BedRoom from "./BedRoom";

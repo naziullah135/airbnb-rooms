@@ -5,7 +5,7 @@ const Footer = () => {
     <footer>
       <div className="footer py-12 border-y-2">
         <div>
-          <span className="footer-title">Support</span>
+          <span className="footer-title opacity-100">Support</span>
           <a className="link link-hover pb-2">Help Center</a>
           <a className="link link-hover pb-2 ">AirCover</a>
           <a className="link link-hover pb-2">Supporting people with disabilities</a>
@@ -14,12 +14,12 @@ const Footer = () => {
           <a className="link link-hover">Report a neighborhood concern</a>
         </div>
         <div>
-          <span className="footer-title">Community</span>
+          <span className="footer-title opacity-100">Community</span>
           <a className="link link-hover pb-2">Airbnb.org: disaster relief housing</a>
           <a className="link link-hover">Combating discrimination</a>
         </div>
         <div>
-          <span className="footer-title">Hosting</span>
+          <span className="footer-title opacity-100">Hosting</span>
           <a className="link link-hover pb-2">Airbnb your home</a>
           <a className="link link-hover pb-2">AirCover for Hosts</a>
           <a className="link link-hover pb-2">Explore hosting resources</a>
@@ -28,7 +28,7 @@ const Footer = () => {
           <a className="link link-hover">Airbnb-friendly apartments</a>
         </div>
         <div>
-          <span className="footer-title">Airbnb</span>
+          <span className="footer-title opacity-100">Airbnb</span>
           <a className="link link-hover pb-2">Newsroom</a>
           <a className="link link-hover pb-2">Learn about new features</a>
           <a className="link link-hover pb-2">Letter from our founders</a>

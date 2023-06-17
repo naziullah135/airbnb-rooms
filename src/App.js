@@ -4,8 +4,8 @@ import Hero from './components/Hero';
 import Map from './components/Map';
 import Navbar from './components/Navbar';
 import Ratings from './components/Ratings';
-import Reviews from './components/Reviews';
 import RoomDetails from './components/RoomDetails';
+import ThingsToKnow from './components/ThingsToKnow';
 
 function App() {
   return (
@@ -15,6 +15,7 @@ function App() {
       <RoomDetails />
       <Ratings />
       <Map />
+      <ThingsToKnow />
       <Footer />
     </div>
   );

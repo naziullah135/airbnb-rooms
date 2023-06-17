@@ -1,6 +1,10 @@
 import './App.css';
+import Footer from './components/Footer';
 import Hero from './components/Hero';
+import Map from './components/Map';
 import Navbar from './components/Navbar';
+import Ratings from './components/Ratings';
+import Reviews from './components/Reviews';
 import RoomDetails from './components/RoomDetails';
 
 function App() {
@@ -9,6 +13,9 @@ function App() {
       <Navbar />
       <Hero />
       <RoomDetails />
+      <Ratings />
+      <Map />
+      <Footer />
     </div>
   );
 }
